@@ -1,3 +1,3 @@
-message=input(">5")
+message=input(">")
 words = message.split(' ')
 print(words)
