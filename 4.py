@@ -1,3 +1,3 @@
 message=input(">")
 words = message.split(' ')
-print(words)
+print(kahlil rmila)
